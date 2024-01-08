@@ -1,19 +1,10 @@
 - 👋 Hi, I’m @drchscott
+- I'm a Professor of Mathematics and Computer Science for the University of Wisconsin.
 - 👀 I’m interested in ...
+- Pure mathematics (analysis) and coding of many types.
 - 🌱 I’m currently learning ...
+- Python and how to use Github
 - 💞️ I’m looking to collaborate on ...
+- Nothing yet ... I'd drive you crazy given my limited knowledge of the Github facility.
 - 📫 How to reach me ...
-
-<!---
-drchscott/drchscott is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-I am a professor of mathematics with the University of Wisconsin - Superior.  
-I am tasked with writing a text about Calculus 1 with a certain philosophy.
-After some research, I believe that using Pretext via github is the right approach.
-Unfortunately, I know absolutely nothing about either of them.
-As an old school LAMP web site coder, learning Pretext is quick.
-But, the learning curve on github is massive.  I know nothing about it and it seems like a maze to me.
-Any help is seriously welcomed.
-
-Thanks.
+- cscott@uwsuper.edu
